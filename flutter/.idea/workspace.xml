@@ -24,21 +24,25 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OYtMa3IJ1fUDOux9VsodSip4bl" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "settings.editor.selected.configurable": "dart.settings",
-    "show.migrate.to.gradle.popup": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/brachrld/Desktop/Onu/Flutter/flutter&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;dart.settings&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Dart Command Line App.flutter.dart">
     <configuration name="flutter.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="filePath" value="$PROJECT_DIR$/bin/flutter.dart" />
@@ -61,6 +65,7 @@
       <updated>1681749298566</updated>
       <workItem from="1682961769227" duration="33000" />
       <workItem from="1682961831488" duration="108000" />
+      <workItem from="1683548929458" duration="50000" />
     </task>
     <servers />
   </component>
